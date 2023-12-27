@@ -30,5 +30,5 @@
 ### Документация
 
 * План автоматизации тестирования (https://github.com/sergey163855/GraduateWork/blob/main/docs/Plan.md)
-* Отчётные документы по итогам тестирования ()
-* Отчётные документы по итогам автоматизации ()
+* Отчётные документы по итогам тестирования (https://github.com/sergey163855/GraduateWork/blob/main/docs/Report.md)
+* Отчётные документы по итогам автоматизации (https://github.com/sergey163855/GraduateWork/blob/main/docs/Summary.md)
