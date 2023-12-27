@@ -12,6 +12,8 @@
 
 #### *Отчёты Gradle и Allure предоставлены на скриншотах:*
 ![FireShot Capture 006 - Test results - Test Summary - localhost](https://github.com/sergey163855/GraduateWork/assets/122844346/8b0009e9-f16a-4ddd-a024-520bc4c9e6c0)
+![Uploading 1703660504620.jpg…]()
+
 
 ### Общие рекомендации:
 
